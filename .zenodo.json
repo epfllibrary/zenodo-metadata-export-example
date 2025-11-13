@@ -29,6 +29,15 @@
 
     "communities": [
         {"identifier": "epfl"}
+    ],
+
+    "related_identifiers": [
+        {
+            "identifier": "https://github.com/zenodo/zenodo/blob/master/zenodo/modules/deposit/jsonschemas/deposits/records/legacyrecord.json",
+            "relation": "references",
+            "scheme": "url",
+            "resource_type": "software"
+        }
     ]
 }
 
