@@ -11,7 +11,7 @@
 
     "title": "Zenodo-Github metadata export example",
 
-    "version": "1.0",
+    "version": "v0.3",
 
     "description": "This is a demo Github repository for the Github-Zenodo publication mechanism. Zenodo metadata are provided using a .zenodo.json file, as presented at https://developers.zenodo.org/#github",
 
