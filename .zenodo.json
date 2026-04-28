@@ -7,11 +7,13 @@
         }
     ],
 
+    "access_right": "open",
+
     "license": "cc0-1.0",
 
     "title": "Zenodo-Github metadata export example",
 
-    "version": "v0.3",
+    "version": "v0.4",
 
     "description": "This is a demo Github repository for the Github-Zenodo publication mechanism. Zenodo metadata are provided using a .zenodo.json file, as presented at https://developers.zenodo.org/#github",
 
@@ -31,6 +33,8 @@
         {"identifier": "epfl"}
     ],
 
+    // Valid for this example only - not a general requirement
+    // Reference to the original Zenodo source code
     "related_identifiers": [
         {
             "identifier": "https://github.com/zenodo/zenodo/blob/master/zenodo/modules/deposit/jsonschemas/deposits/records/legacyrecord.json",
