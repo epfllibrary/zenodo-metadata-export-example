@@ -33,8 +33,6 @@
         {"identifier": "epfl"}
     ],
 
-    // Valid for this example only - not a general requirement
-    // Reference to the original Zenodo source code
     "related_identifiers": [
         {
             "identifier": "https://github.com/zenodo/zenodo/blob/master/zenodo/modules/deposit/jsonschemas/deposits/records/legacyrecord.json",
