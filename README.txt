@@ -1,9 +1,9 @@
 #######################################################################################
-Zenodo-Github metadata export example by the EPFL RDM Library team - v2024
+Zenodo-Github metadata export example by the EPFL RDM Library team - 2025
 #######################################################################################
 
 Author: Alain Borel,  EPFL > VPA > VPA-SISB > SISB-SOAR , https://orcid.org/0000-0003-3268-3195 
-Creation date: 2024
+Original reation date: 2024
 
 This is a demo Github repository for the Github-Zenodo publication mechanism. Zenodo metadata are provided using a .zenodo.json file, as presented at https://developers.zenodo.org/#github
 
@@ -26,4 +26,4 @@ Data and file(s) overview or Data section
 - LICENSE: standard CC0 license text
 - .zenodo.json: metadata file
 
-Version: 0.1
+Version: 0.4
