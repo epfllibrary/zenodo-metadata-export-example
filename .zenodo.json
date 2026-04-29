@@ -1,39 +1,10 @@
 {
     "creators": [
-      {
-        "affiliations": [
-          {
-            "id": "02s376052",
-            "identifiers": [
-              {
-                "identifier": "02s376052",
-                "scheme": "ror"
-              },
-              {
-                "identifier": "grid.5333.6",
-                "scheme": "grid"
-              },
-              {
-                "identifier": "0000 0001 2183 9049",
-                "scheme": "isni"
-              }
-            ],
-            "name": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne"
-          }
-        ],
-        "person_or_org": {
-          "family_name": "Borel",
-          "given_name": "Alain",
-          "identifiers": [
-            {
-              "identifier": "0000-0003-3268-3195",
-              "scheme": "orcid"
-            }
-          ],
-          "name": "Borel, Alain",
-          "type": "personal"
+        {
+            "orcid": "0000-0003-3268-3195",
+            "affiliation": "EPFL",
+            "name": "Borel, Alain"
         }
-      }
     ],
 
     "access_right": "open",
