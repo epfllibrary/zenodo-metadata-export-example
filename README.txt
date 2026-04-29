@@ -26,4 +26,4 @@ Data and file(s) overview or Data section
 - LICENSE: standard CC0 license text
 - .zenodo.json: metadata file
 
-Version: 0.4
+Version: 0.5
