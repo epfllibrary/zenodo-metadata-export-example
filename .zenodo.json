@@ -35,7 +35,7 @@
 
     "related_identifiers": [
         {
-            "identifier": "https://github.com/zenodo/zenodo/blob/master/zenodo/modules/deposit/jsonschemas/deposits/records/legacyrecord.json",
+            "identifier": "https://raw.githubusercontent.com/vsoch/zenodo-validator/refs/heads/main/schema.json",
             "relation": "references",
             "scheme": "url",
             "resource_type": "software"
