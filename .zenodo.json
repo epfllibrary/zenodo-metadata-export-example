@@ -40,6 +40,8 @@
             "scheme": "url",
             "resource_type": "software"
         }
-    ]
+    ],
+
+    "notes": "Most values are only examples, to be adapted by the end user.\nFor the 'license' field, use identifiers from https://spdx.org/licenses/"
 }
 
